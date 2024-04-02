@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Baptiste Plaquevent-Jourdain</title>
+    <link>http://localhost:1313/research/</link>
+    <description>Recent content in Research on Baptiste Plaquevent-Jourdain</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Presentations</title>
+      <link>http://localhost:1313/research/presentations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/presentations/</guid>
+      <description>Posters # Nonsmooth OPTimization and Applications (NOPTA), Antwerpen, Belgium, April 2024, &amp;ldquo;A Differentiability Problem solved by Discrete Geometry&amp;rdquo;.</description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/research/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/publications/</guid>
+      <description>Journals #&#xD;J.</description>
+    </item>
+  </channel>
+</rss>

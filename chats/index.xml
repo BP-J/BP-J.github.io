@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chats on Spelunking</title>
+    <link>http://localhost:1313/chats/</link>
+    <description>Recent content in Chats on Spelunking</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Mar 2024 17:11:39 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/chats/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spelunking</title>
+      <link>http://localhost:1313/chats/spelunking/</link>
+      <pubDate>Mon, 25 Mar 2024 17:11:39 +0100</pubDate>
+      <guid>http://localhost:1313/chats/spelunking/</guid>
+      <description>Intro #2G Enchantment When ~ etbs, draw a card then &amp;hellip; If Cave.</description>
+    </item>
+  </channel>
+</rss>
