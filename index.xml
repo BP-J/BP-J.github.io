@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Webpage of Baptiste Plaquevent-Jourdain on Baptiste Plaquevent-Jourdain</title>
-    <link>https://example.org/</link>
+    <link>https://bp-j.github.io/</link>
     <description>Recent content in Webpage of Baptiste Plaquevent-Jourdain on Baptiste Plaquevent-Jourdain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 29 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bp-j.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Details on this website</title>
-      <link>https://example.org/trivia/website_details/</link>
+      <link>https://bp-j.github.io/trivia/website_details/</link>
       <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/trivia/website_details/</guid>
+      <guid>https://bp-j.github.io/trivia/website_details/</guid>
       <description>These pages were setup using Hugo and Congo.</description>
     </item>
     <item>
       <title>Some hobbies</title>
-      <link>https://example.org/trivia/hobbies/</link>
+      <link>https://bp-j.github.io/trivia/hobbies/</link>
       <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/trivia/hobbies/</guid>
+      <guid>https://bp-j.github.io/trivia/hobbies/</guid>
       <description>I enjoy cooking, especially cakes.</description>
     </item>
     <item>
       <title>PhD details</title>
-      <link>https://example.org/trivia/chatting/</link>
+      <link>https://bp-j.github.io/trivia/chatting/</link>
       <pubDate>Wed, 27 Mar 2024 15:22:02 +0100</pubDate>
-      <guid>https://example.org/trivia/chatting/</guid>
+      <guid>https://bp-j.github.io/trivia/chatting/</guid>
       <description>PhD situation #My PhD takes place between Sherbrooke (Québec, Canada) and Paris.</description>
     </item>
     <item>
       <title>Codes</title>
-      <link>https://example.org/research/codes/</link>
+      <link>https://bp-j.github.io/research/codes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/research/codes/</guid>
+      <guid>https://bp-j.github.io/research/codes/</guid>
       <description>ISF (MATLAB) #ISF and BDIFFMIN are available at Software Heritage and its functioning described in this pdf.</description>
     </item>
     <item>
       <title>Current situation</title>
-      <link>https://example.org/about/</link>
+      <link>https://bp-j.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/about/</guid>
+      <guid>https://bp-j.github.io/about/</guid>
       <description>I am a PhD student at Université de Sherbrooke, in the BISOUS team (in French), and at Inria Paris, in the SERENA team, supervised by Jean-Pierre Dussault (Sherbrooke) and Jean Charles Gilbert (Paris) since April 2021.</description>
     </item>
     <item>
       <title>Presentations</title>
-      <link>https://example.org/research/presentations/</link>
+      <link>https://bp-j.github.io/research/presentations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/research/presentations/</guid>
+      <guid>https://bp-j.github.io/research/presentations/</guid>
       <description>Posters # Nonsmooth OPTimization and Applications (NOPTA), Antwerpen, Belgium, April 2024, &amp;ldquo;A Differentiability Problem solved by Discrete Geometry&amp;rdquo;.</description>
     </item>
     <item>
       <title>Publications</title>
-      <link>https://example.org/research/publications/</link>
+      <link>https://bp-j.github.io/research/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/research/publications/</guid>
+      <guid>https://bp-j.github.io/research/publications/</guid>
       <description>Journals #&#xD;J.</description>
     </item>
     <item>
       <title>Teaching</title>
-      <link>https://example.org/teaching/</link>
+      <link>https://bp-j.github.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/teaching/</guid>
+      <guid>https://bp-j.github.io/teaching/</guid>
       <description>Some information regarding the classes I was assistant in.</description>
     </item>
   </channel>

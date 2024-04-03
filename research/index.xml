@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on Baptiste Plaquevent-Jourdain</title>
-    <link>https://example.org/research/</link>
+    <link>https://bp-j.github.io/research/</link>
     <description>Recent content in Research on Baptiste Plaquevent-Jourdain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="https://example.org/research/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bp-j.github.io/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Codes</title>
-      <link>https://example.org/research/codes/</link>
+      <link>https://bp-j.github.io/research/codes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/research/codes/</guid>
+      <guid>https://bp-j.github.io/research/codes/</guid>
       <description>ISF (MATLAB) #ISF and BDIFFMIN are available at Software Heritage and its functioning described in this pdf.</description>
     </item>
     <item>
       <title>Presentations</title>
-      <link>https://example.org/research/presentations/</link>
+      <link>https://bp-j.github.io/research/presentations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/research/presentations/</guid>
+      <guid>https://bp-j.github.io/research/presentations/</guid>
       <description>Posters # Nonsmooth OPTimization and Applications (NOPTA), Antwerpen, Belgium, April 2024, &amp;ldquo;A Differentiability Problem solved by Discrete Geometry&amp;rdquo;.</description>
     </item>
     <item>
       <title>Publications</title>
-      <link>https://example.org/research/publications/</link>
+      <link>https://bp-j.github.io/research/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/research/publications/</guid>
+      <guid>https://bp-j.github.io/research/publications/</guid>
       <description>Journals #&#xD;J.</description>
     </item>
   </channel>
