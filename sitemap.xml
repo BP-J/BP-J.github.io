@@ -47,13 +47,13 @@
   
     
       <url>
-            <loc>https://bp-j.github.io/about/</loc>
+            <loc>https://bp-j.github.io/research/presentations/</loc>
           </url>
     
   
     
       <url>
-            <loc>https://bp-j.github.io/research/presentations/</loc>
+            <loc>https://bp-j.github.io/research/projects/</loc>
           </url>
     
   
@@ -66,6 +66,12 @@
     
       <url>
             <loc>https://bp-j.github.io/research/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://bp-j.github.io/about/</loc>
           </url>
     
   
